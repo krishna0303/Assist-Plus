@@ -1,7 +1,8 @@
 
 # Assist Plus
+Assist Plus is a blogging platform where users can write or read any articles related to any domain and they can share their experiences or thoughts to others.
 
-## Setup
+## Getting Started
 
 The first thing to do is to clone the repository:
 
@@ -11,7 +12,7 @@ $ cd Assist-Plus
 ```
 
 
-## Getting Started
+
 
 Setup project environment with [virtualenv](https://virtualenv.pypa.io) and [pip](https://pip.pypa.io).
 
