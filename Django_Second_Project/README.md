@@ -6,11 +6,10 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/gocardless/sample-django-app.git
-$ cd sample-django-app
+$ git clone https://github.com/krishna0303/Assist-Plus.git
+$ cd Assist-Plus
 ```
 
-The clean, fast and right way to start a new Django `1.10.1` powered website.
 
 ## Getting Started
 
@@ -32,9 +31,9 @@ $ python manage.py runserver
 
 ## Features
 
-* Basic Django scaffolding (commands, templatetags, statics, media files, etc).
-* Split settings in two files. `settings_custom.py` for specific environment settings (localhost, production, etc). `projectname/settings.py` for core settings.
-* Simple logging setup ready for production envs.
+* Assist Plus is a blogging platform where users can write or read any articles related to any domain and they can share their experiences or thoughts to others.
+* Users can register and create/update their profile.
+* Users can post,update and delete posts.
 
 ## Contributing
 
