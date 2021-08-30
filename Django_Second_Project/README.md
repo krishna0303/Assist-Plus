@@ -1,4 +1,14 @@
-# Django Project Template
+
+# Assist Plus
+
+## Setup
+
+The first thing to do is to clone the repository:
+
+```sh
+$ git clone https://github.com/gocardless/sample-django-app.git
+$ cd sample-django-app
+```
 
 The clean, fast and right way to start a new Django `1.10.1` powered website.
 
